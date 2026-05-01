@@ -1,0 +1,16 @@
+[[datasets]]
+image_directory = "H:/Datasets/SDss/Khoya_data/webs/BlackHole_V3/1_human skin"
+num_repeats = 1
+cache_directory = "H:/Datasets/SDss/Khoya_data/webs/BlackHole_V3/1_human skin/cache_dir"
+
+[[datasets]]
+image_directory = "H:/Datasets/SDss/Khoya_data/webs/BlackHole_V3/1_yoga"
+num_repeats = 1
+cache_directory = "H:/Datasets/SDss/Khoya_data/webs/BlackHole_V3/1_yoga/cache_dir"
+
+[general]
+resolution = [ 1328, 1328]
+caption_extension = ".txt"
+batch_size = 1
+enable_bucket = true
+bucket_no_upscale = true
